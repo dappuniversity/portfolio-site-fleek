@@ -5,9 +5,9 @@ const Experience = () => {
 
             <ul>
                 <li>
-                    <i>Clayton State University</i>, 2014-2018
+                    <i>Dapp University</i>, 2021-2022
                     <ul>
-                        <li>Graduated with 3.00 GPA</li>
+                        <li>Graduated with 4.00 GPA</li>
                     </ul>
                 </li>
                 <li>
